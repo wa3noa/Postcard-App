@@ -5,6 +5,8 @@
 //  Created by James Harris on 3/11/15.
 //  Copyright (c) 2015 OHMs. All rights reserved.
 //
+//  Adding commment to test GitHub commits
+//
 
 import UIKit
 
